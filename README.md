@@ -5,3 +5,4 @@ The purpose of this project is to build a simple recipe website with HTML knowle
 * Using links and pictures
 * Creating ordered and unordered lists
 * Using basic CSS styling
+* Working with padding, margins and borders
