@@ -1,0 +1,14 @@
+* {
+    background-color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkblue;
+}
+
+p, ul, ol {
+    font-size: 18px;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
